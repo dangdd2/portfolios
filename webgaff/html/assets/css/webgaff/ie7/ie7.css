@@ -1,0 +1,25 @@
+.webgaff-Call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
+}
+.webgaff-Chat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
+}
+.webgaff-Conditions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
+}
+.webgaff-Direction {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
+}
+.webgaff-Image {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
+}
+.webgaff-Live {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;');
+}
+.webgaff-Location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91f;');
+}
+.webgaff-Logo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe920;');
+}
+
